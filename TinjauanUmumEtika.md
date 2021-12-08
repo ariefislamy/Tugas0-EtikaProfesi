@@ -1,4 +1,4 @@
-**Definisi Etika dan Moral**
+## **Definisi Etika dan Moral**
 
 Menurut Kamus Besar Bahasa Indonesia terbitan Departemen Pendidikan dan Kebudayaan tahun 1998 etika dapat diartikan sebagai:
 1. Ilmu tenatang apa yang baik dan buruk, juga tentang hak dan kewajiban moral.
