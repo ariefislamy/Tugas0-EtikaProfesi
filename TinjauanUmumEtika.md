@@ -1,4 +1,5 @@
 Definisi Etika dan Moral
+
 Menurut Kamus Besar Bahasa Indonesia terbitan Departemen Pendidikan dan Kebudayaan tahun 1998 etika dapat diartikan sebagai:
 
 Ilmu tenatang apa yang baik dan buruk, juga tentang hak dan kewajiban moral.
@@ -10,7 +11,9 @@ Etika merupakan karakter individu, dalam hal ini termasuk bahwa orang yang beret
 Etika merupakan hukum sosial. Etika merupakan hukum yang mengatur, mengendalikan serta membatasi perilaku manusia.
 Sedangkan moral, secara etimologis moral sama dengan etika. Moral berasal dari bahasa Latin "mos" yang juga berarti sebagai adat kebiasaan. Moral sama dengan etika yaitu nilai-nilai dan norma yang menjadi pegangan seseorangn atau kelompok dalam mengatur tingkah lakunya di dalam komunitas kehidupannya.
 
+
 Pekerjaan, Profesi, dan Profesioanal
+
 Menurut Abdulkadir Muhammad (2001), kebutuhan manusia mencakup:
 
 Kebutuhan ekonomi, mencakup kebutuhan yang bersifat material. Berupa harta maupun benda yang digunakan untuk kesehatan dan keselamatan manusia (sandang, pangan, dan papan).
@@ -23,7 +26,9 @@ Memenuhi kebutuhan hidup. Dengan bekerja manusia akan mendapatkan penghasilan un
 Mengurangi tingkat pengangguran dan kriminalitas.
 Melayani sesama. Contohnya menjadi relawan yang secara sukarela membantu orang lain.
 Mengontrol gaya hidup.
+
 Profesi dan Pekerjaan
+
 Profesi merupakan bagian dari pekerjaan, namun tidak semua pekerjaan adalah profesi. Profesi adalah suatu bentuk pekerjaan yang mengahruskan pelakunya memiliki pengetahuan tertentu yang didapat melalui pendidikan formal dan keterampilan tertentu yang diperoleh dari pengalaman kerja pada orang yang sudah terlebih dahulu menguasai keterampilan tersebut, dan terus memperbaharui keterampilannya sesuai dengan perkembangan teknologi. Untuk menjadia seseorang profesional, seseorang yang melakukan pekerjaan dituntut untuk memiliki beberapa sikap yaitu:
 
 Komitmen tinggi.
